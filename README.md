@@ -24,7 +24,7 @@ This project trains a machine learning model on the classic **Iris dataset** and
 * Algorithm: RandomForestClassifier
 * Dataset: sklearn Iris
 * Accuracy: ~95%
-* Model saved as: `iris_model.pkl`
+* Model saved as: `iris_model.py`
 
 ---
 
